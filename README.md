@@ -1,0 +1,2 @@
+# docker_dbdata_migration
+2つのコンテナでdbデータを共有できるのかテストする
